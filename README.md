@@ -200,5 +200,8 @@ Fluxo Principal<br>
 Fluxo Secundário [FS001]<br>
  • Intervalo sem registros → exibir “sem dados” e sugerir ajuste de filtros.
 
-#Diagrama de uso
-https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaCasosUso.png
+# Diagrama de casos de uso
+
+<img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaCasosUso.png
+"
+     alt="Diagrama de sequencia 2">
