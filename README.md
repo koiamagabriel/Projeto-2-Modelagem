@@ -202,6 +202,5 @@ Fluxo Secundário [FS001]<br>
 
 # Diagrama de casos de uso
 
-<img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaCasosUso.png
-"
+<img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaCasosUso.png"
      alt="Diagrama de sequencia 2">
