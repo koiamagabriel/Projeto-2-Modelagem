@@ -4,5 +4,5 @@
 ## Diagrama de Classes
 
 
-<img src="https://raw.githubusercontent.com/koiamagabriel/Projeto-1---Grupo-A/main/DiagramaDeClassesProj1.png"
+<img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaClasse.png"
      alt="Diagrama de Classes">
