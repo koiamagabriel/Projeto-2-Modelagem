@@ -1,6 +1,6 @@
 # Diagrama de Atividade
 
-## Processo de Eleição
+## Atendimento de chamada externa fim a fim
 <img src="https://github.com/koiamagabriel/Projeto-1---Grupo-A/blob/main/diagramadeatividade3.png"
      alt="Diagrama de Estados1">
 
