@@ -49,17 +49,5 @@
 
 <img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaSeq10.png"
      alt="Diagrama de sequencia 4">
-## UC_11
 
-<img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaSeq11.png"
-     alt="Diagrama de sequencia 4">
-## UC_12
-
-<img src="https://github.com/koiamagabriel/Projeto-2-Modelagem/blob/main/DiagramaSeq12.png"
-     alt="Diagrama de sequencia 4">
-     
-
-
-
-     alt="Diagrama de sequencia 5">
 
